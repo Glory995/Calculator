@@ -77,6 +77,23 @@ button:hover{
 
 
 
-@media screen  {
-    
+@media screen and (max-width: 690px){
+
+
+    .holding{
+
+        background-color: #56494c;
+       
+        width: 350px;
+        height: 500px;
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+        
+    }
+
+
+
+
 }
