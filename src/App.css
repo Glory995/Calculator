@@ -17,6 +17,7 @@ input{
     min-height: 50px;
     display: flex;
     flex-direction: column;
+    background-color: white;
     
     font-weight: 600;
     font-size: 18px;
